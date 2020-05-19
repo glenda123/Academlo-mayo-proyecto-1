@@ -1,0 +1,54 @@
+.container {
+    width: 90%;
+    margin: 0 5%;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-1, .col-3, .col-4, .col-6 {
+    padding: 10px;
+}
+.col-1 {
+    width: calc(100%/12);
+}
+.col-3 {
+    width: 25%;
+}
+.col-4 {
+    width: 33.333%;
+}
+.col-6 {
+    width: 50%;
+}
+
+.container2{
+    width: 88%;
+    margin: 0.5%;
+    height: 100%;
+}
+
+.container2-2{
+    width:33.333% ;
+    height:100%;
+}
+
+.container3{
+    width: 100vw;
+    margin: 0;
+}
+
+.margen{
+margin-left: 7%;
+margin-right: 10%;
+}
+.parte1-sub{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.contend{
+    width:75% ;
+    top:70%;
+    
+}

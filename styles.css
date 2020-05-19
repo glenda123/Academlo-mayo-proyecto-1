@@ -1,0 +1,351 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+}
+
+/* Intro section */
+#intro {
+    min-height: 100vh;
+}
+.intro-title {
+    font-size: 60px;
+}
+.intro-subtitle {
+    font-size: 20px;
+}
+
+/* Servicios */
+#services {
+    margin-top: -100px;
+}
+
+i{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 18px;
+    letter-spacing: 2.7px;
+    color: #111111;
+    
+}
+.parrafo{ 
+    font-size: 16px;
+    line-height: 34px;
+    color: #5d5d5d;
+}
+
+#work{
+    min-height: 100vh;
+}
+.intro-title2{
+    font-size: 24px;
+    letter-spacing: 6px;
+}
+.parrafo-latest{
+    color: #5d5d5d;
+    font-size: 16px;
+    line-height: 34px;
+}
+
+li{
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px;
+    color:#282828;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+
+.imagen1{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/1.jpg');
+      
+    background-size:cover ;
+    width:360px;
+    height:250px;
+    margin-bottom: 30px;
+    
+}
+
+.imagen2{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/4.jpg');
+      
+    background-size:cover ;
+    width:360px;
+    height:520px;
+   
+    
+}
+
+.imagen3{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/2.jpg');
+      
+    background-size:cover ;
+    width:360px;
+    height:520px;
+    margin-bottom: 25px;
+    
+}
+
+.imagen4{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/6.jpg');
+      
+    background-size:cover ;
+    width:360px;
+    height:360px;
+    
+    
+}
+
+.imagen5{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/3.jpg');
+      
+    background-size:cover ;
+    width:360px;
+    height:360px;
+    margin-bottom: 30px;
+    
+}
+.imagen6{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/portfolio/style4/5.jpg');
+      
+    background-size:cover ;
+    width:360px;
+    height:360px;
+    
+    
+}
+
+.boton{
+    margin-top: 70px;
+    margin-bottom:90px ;
+    color: #111111;
+    border-color: #111111;
+    font-size: 14px;
+    letter-spacing: 3.5px;
+    border:solid 1px;
+    width:230px;
+    height: 50px;
+    padding: 15px 45px;
+}
+
+.card2-2{
+    width: 340px;
+    height: 129px;
+    padding: 50px;
+}
+
+.card-text{
+    width: 340px;
+    height: 90px;
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: -5px;
+    margin-bottom: 20px;
+    color: #5d5d5d;
+
+}
+
+.rakib{
+    width: 290px;
+    height: 19px;
+}
+h4{
+    line-height: 1.2;
+    color: #282828;
+    margin: 0 0 15px;
+    font-size: 16px;
+    letter-spacing: 2.1px;
+    display: inline;
+}
+
+h5{
+    font-size: 11px;
+    letter-spacing: 1.65px;
+    color: #878787;
+    margin-left: 10px;
+    line-height: 1.2;
+    align-self:center;
+    display: inline;
+}
+
+.image-news1{
+    background-image:url('http://regaltheme.com/tf/multi/rm/rm/assets/img/blog/style1/1.jpg') ;
+    width: 390px;
+    height: 340px;
+    padding-right: 25px;
+    background-size: cover;
+}
+
+.card-news1{
+    width: 450px;
+    height: 185px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.card-new-border{
+    width: 430px;
+    height: 185px;
+    
+}
+
+.card-new-text{
+    width: 430px;
+    margin-top: 80px;
+    margin-bottom:50px ;
+}
+.where{
+    margin-bottom: 10px;
+    font-size: 18px;
+    letter-spacing: 2.7px;
+    line-height: 1.2;
+    color: #282828;
+    display:block;
+}
+.date{
+    color: #282828;
+    margin-top: 17px;
+    margin-bottom: 25px;
+    font-size: 11px;
+    letter-spacing: 1.65px;
+    line-height: 1.2;
+    display: block;
+    margin-left:0;
+}
+
+.p-new1{
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 34px;
+    color: #5d5d5d;
+}
+
+.a-read{
+    font-size: 13px;
+    display: inline-block;
+    letter-spacing: 1.95px;
+    line-height: 21px;
+    padding: 0 8px;
+    color: #111111;
+    text-decoration: none;
+}
+
+.card-news2{
+    width: 450px;
+    height: 185px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.image-news2{
+    background-image:url('http://regaltheme.com/tf/multi/rm/rm/assets/img/blog/style1/2.jpg');
+    width: 390px;
+    height: 340px;
+    padding-left: 25px;
+    background-size: cover;
+    margin-left:30px ;
+}
+
+.card-new-text2{
+    width: 430px;
+    margin-top: 80px;
+    margin-bottom:50px ;
+    padding-right: 50px;
+}
+
+.logo{
+    background-image: url('http://regaltheme.com/tf/multi/rm/rm/assets/img/logo-white.png');
+    color:black;
+    position: relative;
+    background-size: cover;
+    width: 105px;
+    height: 103px;
+    margin-left: 85px;
+}
+
+.footer{
+    background-color: #0a0a0afa;
+}
+
+.space-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 387px;
+    width:100% ;
+}
+
+
+
+.about{
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 2.1px;
+    line-height: 1.2;
+    margin-bottom: 13px;
+    display:block ;
+}
+
+.ul-footer{
+    width:950px;
+    height:167px;
+}
+
+.about-footer{
+    display:inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    height: 167px;
+    width:400px ;
+    margin-right: 35px;
+}
+
+.p1-footer{
+    color: #ababab;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    
+}
+
+.space-footer2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    width:100% ;
+    background-color: #1d1d1d;
+}
+
+.copy{
+    margin-left: 85px;
+    color: #ababab;
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+
+.redes{
+    padding: 0 10px;
+    color: #ababab;
+    font-weight: 300;
+    font-size: 14px;
+    left:0.1px;
+    letter-spacing:0;
+    top:5px;
+    position: relative;
+}
+
+.ul-footer2{
+    width:400px;
+    height:70px;
+ 
+    
+}

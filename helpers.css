@@ -1,0 +1,76 @@
+.bg-light {
+    background-color: #f8f8f8;
+}
+.text-center {
+    text-align: center;
+}
+/* Flex */
+.d-flex {
+    display: flex;
+}
+.justify-center {
+    justify-content: center;
+}
+.align-center {
+    align-items: center;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-blue {
+    background-color: blue;
+}
+.space-top {
+    margin-top: 30px;
+}
+.space-top-sm {
+    margin-top: 15px;
+}
+.bg-white{
+    background-color: white;
+}
+.space-top2{
+    margin-top:100px ;
+}
+
+.position-relative{
+    position: relative;
+}
+
+.margen-2{
+    margin-left: 15%;
+
+}
+
+.space-top2-2{
+    top:-30%;
+}
+
+
+.margenes{
+   padding-bottom: 120px;
+
+}
+
+.padding-new{
+    padding-bottom: 60px;
+}
+
+.news1-1{
+    padding-left: 17%;
+    padding-right: 13%;
+    width: 100%;
+    height:100% ;
+    margin-bottom: 45px;
+}
+
+.news2-2{
+    width: 100%;
+    height:100%;
+    padding-left:17%;
+    padding-right:17% ;
+    margin-bottom: 7%;
+}
